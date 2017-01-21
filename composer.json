@@ -1,7 +1,13 @@
 {
     "name": "dpriyanto/getresponse",
     "version": "1.0.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/DPriyanto/getresponse"
+        }
+    ],
     "require": {
-        "dpriyanto/curl": "1.*"
+        "dpriyanto/curl": "master"
     }
 }
