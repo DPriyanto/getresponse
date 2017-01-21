@@ -1,6 +1,23 @@
 {
     "name": "dpriyanto/getresponse",
     "version": "1.0.0",
+    "type": "library",
+    "description": "description",
+    "keywords": ["key","words"],
+    "homepage": "https://github.com/DPriyanto/getresponse",
+    "license": "",
+    "authors": [
+        {
+            "name": "Dedy Priyanto",
+            "homepage": "http://priyanto.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    },
     "repositories": [
         {
             "type": "vcs",
