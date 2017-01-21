@@ -14,8 +14,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "Monolog": "src"
+        "psr-4": {
+            "DPriyanto\\": "src"
         }
     },
     "repositories": [
