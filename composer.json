@@ -25,6 +25,6 @@
         }
     ],
     "require": {
-        "dpriyanto/curl": "dev-master"
+        "dpriyanto/curl": "1.*"
     }
 }
